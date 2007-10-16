@@ -1,0 +1,11 @@
+#summary Main wiki page for dapodshack
+
+= Introduction =
+
+dapodshack is a system for making podcasts of torrents and seeding them.
+
+
+= Details =
+
+So far we have:
+  * [http://drradioutils.googlecode.com/svn/trunk/dapodshack/ dapodshack]
