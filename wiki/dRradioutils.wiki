@@ -1,0 +1,12 @@
+#summary This is the main page for the dRradioutils radio utilities
+
+= Introduction =
+
+So, this is for various bits and pieces of code that may be useful for people in radio. It may also be used as an incubator for things that may get moved if they grow to the point of needing their own place.
+
+
+= Details =
+
+So far:
+  * dapodshack - make and seed porcasts of bittorrents
+  * [RivUtils rivutils] various utilities for Rivendell
