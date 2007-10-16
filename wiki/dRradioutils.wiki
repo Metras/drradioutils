@@ -8,5 +8,5 @@ So, this is for various bits and pieces of code that may be useful for people in
 = Details =
 
 So far:
-  * dapodshack - make and seed porcasts of bittorrents
+  * [dapodshack http://drradioutils.googlecode.com/svn/trunk/dapodshack/] - make and seed porcasts of bittorrents
   * [RivUtils rivutils] various utilities for Rivendell
