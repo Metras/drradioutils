@@ -9,3 +9,8 @@ dapodshack is a system for making podcasts of torrents and seeding them.
 
 So far we have:
   * [http://drradioutils.googlecode.com/svn/trunk/dapodshack/ dapodshack]
+
+Which includes:
+
+ * [http://drradioutils.googlecode.com/svn/trunk/dapodshack/dapodshack dapodshack]
+ * [http://drradioutils.googlecode.com/svn/trunk/dapodshack/fixpod.py]
